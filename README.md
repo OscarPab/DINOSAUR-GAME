@@ -1,5 +1,7 @@
 # DINOSAUR GAME
 
+![Captura-de-pantalla-2023-02-07-080949.png](https://i.postimg.cc/qBLQFYmV/Captura-de-pantalla-2023-02-07-080949.png)
+
 ---
 
 ## 💡 Description
